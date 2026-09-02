@@ -1,7 +1,7 @@
 
 <H3>NAME : Logesh.N.A</H3>
 <H3>REGISTER NO. 212223240078</H3>
-<H3>EX. NO.8</H3>
+<H3>EX. NO.10</H3>
 <H3>DATE : 27/08/2026</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
